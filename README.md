@@ -77,13 +77,13 @@ endmodule
 ```
 
 ### RTL LOGIC:
-![output](?raw=true)
+![output](https://github.com/RuchithaReddy28/Experiment-08-Encoders-and-decoders-/blob/main/encoder%20op.png?raw=true)
 
 ### TIMING DIGRAMS:  
-![output](?raw=true)
+![output](https://github.com/RuchithaReddy28/Experiment-08-Encoders-and-decoders-/blob/main/encoder%20timing.png?raw=true)
 
 ### TRUTH TABLE:
-![output](?raw=true)
+![output](https://github.com/RuchithaReddy28/Experiment-08-Encoders-and-decoders-/blob/main/en3.png?raw=true)
 
 ### Decoder:
 ```
@@ -101,12 +101,12 @@ assign d7=(a&b&c);
 endmodule
 ```
 ### RTL LOGIC: 
-![output](?raw=true)
+![output](https://github.com/RuchithaReddy28/Experiment-08-Encoders-and-decoders-/blob/main/decoder%20op.png?raw=true)
 
 ### TIMING DIGRAMS:  
-![output](?raw=true)
+![output](https://github.com/RuchithaReddy28/Experiment-08-Encoders-and-decoders-/blob/main/decoder%20timimg.png?raw=true)
 
 ### TRUTH TABLE:
-![output](?raw=true)
+![output](https://github.com/RuchithaReddy28/Experiment-08-Encoders-and-decoders-/blob/main/de3.png?raw=true)
 
 ### RESULTS: 
